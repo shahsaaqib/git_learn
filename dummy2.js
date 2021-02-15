@@ -1,1 +1,3 @@
-console.log("Hello dummy3");
+const a = 23;
+const b = 24;
+const sum = a+b;
